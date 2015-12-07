@@ -7,3 +7,4 @@ List of frontend links and resources I find useful.
 
 ## Podcasts
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
+* [The Changelog](http://5by5.tv/changelog)
