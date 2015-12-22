@@ -1,5 +1,8 @@
 # frontend-links
-List of frontend links and resources I find useful.
+Learning something new can be scary, be prepared to suck first but be also determined to push through. The JavaScript landscape is always changing and it can be difficult knowing which path to take. I hope these links will serve as a guide to help you through your learning process. It is by no means comprehensive, that is by design but these are the links that have helped me on my journey and I hope it can help you too.
+
+## Start Here
+* [I want to learn JavaScript](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.2vrwxvu78)
 
 ## JavaScript
 * [Human JavaScript](http://read.humanjavascript.com/)
