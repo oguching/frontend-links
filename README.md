@@ -1,5 +1,5 @@
 # frontend-links
-Learning something new can be scary, be prepared to suck first but be also determined to push through. The JavaScript landscape is always changing and it can be difficult knowing which path to take. I hope these links will serve as a guide to help you through your learning process. It is by no means comprehensive, that is by design but these are the links that have helped me on my journey and I hope it can help you too.
+Learning something new can be scary, be prepared to suck at first but be also determined to push through. The JavaScript landscape is always changing and it can be difficult knowing which path to take. I hope these links will serve as a guide to help you through your learning process. It is by no means comprehensive, that is by design but these are the links that have helped me on my journey and I hope it can help you too.
 
 ## Start Here
 * [I want to learn JavaScript](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.2vrwxvu78)
@@ -12,6 +12,7 @@ Learning something new can be scary, be prepared to suck first but be also deter
 * [Mixins, Forwarding and Delegation in JavaScript](http://raganwald.com/2014/04/10/mixins-forwarding-delegation.html) 2014
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
 * [Know thy reference | Understanding `this`](http://perfectionkills.com/know-thy-reference/) 2014
+* [Mastering Asynchronous Progamming | The end of the loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop) (Egghead video)
 
 ## Podcasts
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
