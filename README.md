@@ -10,12 +10,18 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) 
 * [ES5 to ES6 and Beyond](https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016) (Slide deck) 
 * [Mixins, Forwarding and Delegation in JavaScript](http://raganwald.com/2014/04/10/mixins-forwarding-delegation.html) 2014
+* [Class Hierarchies | Don't do that](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html) 2014
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
 * [Know thy reference | Understanding `this`](http://perfectionkills.com/know-thy-reference/) 2014
 * [Mastering Asynchronous Progamming | The end of the loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop) (Egghead video)
 * [Understanding Prototypes in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/) 2011
 
+
 ## Podcasts
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
 * [The Changelog](http://5by5.tv/changelog)
 * [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) (Youtube) 
+
+## Resources
+* [/r/JavaScript](https://www.reddit.com/r/javascript)
+
