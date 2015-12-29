@@ -4,6 +4,9 @@ Learning something new can be scary, be prepared to suck at first but be also de
 ## Start Here
 * [I want to learn JavaScript](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.2vrwxvu78)
 
+## Open Source
+* [How to fix a bug in an Open Source Project](http://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/)
+
 ## JavaScript
 * [Human JavaScript](http://read.humanjavascript.com/)
 * [JavaScript MVC](http://alistapart.com/article/javascript-mvc) 2009
