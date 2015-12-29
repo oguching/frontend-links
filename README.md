@@ -20,6 +20,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Know thy reference | Understanding `this`](http://perfectionkills.com/know-thy-reference/) 2014
 * [Mastering Asynchronous Progamming | The end of the loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop) (Egghead video)
 * [Understanding Prototypes in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/) 2011
+* [JavaScript Objects](https://davidwalsh.name/javascript-objects) (3 Part series) 2013 
 
 
 ## Podcasts
