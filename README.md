@@ -14,6 +14,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [ES5 to ES6 and Beyond](https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016) (Slide deck) 
 * [Mixins, Forwarding and Delegation in JavaScript](http://raganwald.com/2014/04/10/mixins-forwarding-delegation.html) 2014
 * [Mixins](http://raganwald.com/2015/06/10/mixins.html) 2015
+* [Fresh look at Mixins](https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/) 2011
 * [Class Hierarchies | Don't do that](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html) 2014
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
 * [Know thy reference | Understanding `this`](http://perfectionkills.com/know-thy-reference/) 2014
