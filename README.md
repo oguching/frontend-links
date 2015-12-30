@@ -8,6 +8,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [How to fix a bug in an Open Source Project](http://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/)
 
 ## JavaScript
+* [DOM Enlightenment](http://domenlightenment.com/)
 * [Human JavaScript](http://read.humanjavascript.com/)
 * [JavaScript MVC](http://alistapart.com/article/javascript-mvc) 2009
 * [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) 
