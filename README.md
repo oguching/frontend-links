@@ -3,6 +3,7 @@ Learning something new can be scary, be prepared to suck first but be also deter
 
 ## Start Here
 * [I want to learn JavaScript](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.2vrwxvu78)
+* [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript?redirectlocale=en-US&redirectslug=JavaScript%2FA_re-introduction_to_JavaScript)
 
 ## JavaScript
 * [Human JavaScript](http://read.humanjavascript.com/)
