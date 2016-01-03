@@ -27,7 +27,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [JavaScript Objects](https://davidwalsh.name/javascript-objects) (3 Part series) 2013 
 
 ### React
-*[Learn just react](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)
+* [Learn just react](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)
 
 ## Podcasts
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
