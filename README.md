@@ -1,13 +1,15 @@
 # frontend-links
 Learning something new can be scary, be prepared to suck at first but be also determined to push through. The JavaScript landscape is always changing and it can be difficult knowing which path to take. I hope these links will serve as a guide to help you through your learning process. It is by no means comprehensive, that is by design but these are the links that have helped me on my journey and I hope it can help you too.
 
-## Start Here
-* [I want to learn JavaScript](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.2vrwxvu78)
-
 ## Open Source
 * [How to fix a bug in an Open Source Project](http://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/)
 
 ## JavaScript
+
+### Start Here
+* [I want to learn JavaScript](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.2vrwxvu78)
+
+### JS Concepts
 * [DOM Enlightenment](http://domenlightenment.com/)
 * [The Design of Code: Organising JavaScript](http://alistapart.com/article/the-design-of-code-organizing-javascript) 2013
 * [Human JavaScript](http://read.humanjavascript.com/)
