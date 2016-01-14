@@ -25,6 +25,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Understanding Prototypes in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/) 2011
 * [Inheritance and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 * [JavaScript Objects](https://davidwalsh.name/javascript-objects) (3 Part series) 2013 
+* [Factory Functions](https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91#.2mm3prg3i)
 
 
 ## Podcasts
