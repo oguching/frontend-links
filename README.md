@@ -23,6 +23,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Fresh look at Mixins](https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/) 2011
 * [Class Hierarchies | Don't do that](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html) 2014
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
+* [ES6 Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) 2013
 * [How do Closures Work?](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
 * [Know thy reference | Understanding `this`](http://perfectionkills.com/know-thy-reference/) 2014
 * [Mastering Asynchronous Progamming | The end of the loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop) (Egghead video)
