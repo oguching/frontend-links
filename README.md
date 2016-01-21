@@ -8,6 +8,8 @@ Learning something new can be scary, be prepared to suck at first but be also de
 
 ### Start Here
 * [I want to learn JavaScript](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.2vrwxvu78)
+* [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript?redirectlocale=en-US&redirectslug=JavaScript%2FA_re-introduction_to_JavaScript)
+
 
 ### JS Concepts
 * [DOM Enlightenment](http://domenlightenment.com/)
@@ -29,6 +31,8 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [JavaScript Objects](https://davidwalsh.name/javascript-objects) (3 Part series) 2013 
 * [Factory Functions](https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91#.2mm3prg3i)
 
+## CSS
+* [How float works](http://bitsofco.de/how-floating-works/)
 
 ## Podcasts
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
