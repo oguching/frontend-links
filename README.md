@@ -9,6 +9,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 ### Start Here
 * [I want to learn JavaScript](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.2vrwxvu78)
 * [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript?redirectlocale=en-US&redirectslug=JavaScript%2FA_re-introduction_to_JavaScript)
+* [How to learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620#.x0hlquwtk)
 
 
 ### JS Concepts
