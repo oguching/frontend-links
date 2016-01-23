@@ -12,6 +12,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 
 
 ### JS Concepts
+* [JavaScript Modules](https://medium.com/@preethikasireddy/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.q2jk2t796)
 * [DOM Enlightenment](http://domenlightenment.com/)
 * [The Design of Code: Organising JavaScript](http://alistapart.com/article/the-design-of-code-organizing-javascript) 2013
 * [Human JavaScript](http://read.humanjavascript.com/)
