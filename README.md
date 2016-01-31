@@ -16,6 +16,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [The Design of Code: Organising JavaScript](http://alistapart.com/article/the-design-of-code-organizing-javascript) 2013
 * [Human JavaScript](http://read.humanjavascript.com/)
 * [JavaScript MVC](http://alistapart.com/article/javascript-mvc) 2009
+* [Backbone Models | What is a Model?](https://cdnjs.com/libraries/backbone.js/tutorials/what-is-a-model/)
 * [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) 
 * [ES5 to ES6 and Beyond](https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016) (Slide deck) 
 * [Mixins, Forwarding and Delegation in JavaScript](http://raganwald.com/2014/04/10/mixins-forwarding-delegation.html) 2014
