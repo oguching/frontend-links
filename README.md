@@ -28,6 +28,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 
 ## CSS
 * [How float works](http://bitsofco.de/how-floating-works/)
+* [CSS Layouts](http://book.mixu.net/css/single-page.html)
 
 ## Podcasts
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
