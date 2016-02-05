@@ -13,12 +13,10 @@ Learning something new can be scary, be prepared to suck at first but be also de
 
 
 ### JS Concepts
-* ES6
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [ES5 to ES6 and Beyond](https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016) (Slide deck) 
 * [For and against `let`](https://davidwalsh.name/for-and-against-let)
 * [ES6 Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) 2013
-
 * [JavaScript Modules](https://medium.com/@preethikasireddy/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.q2jk2t796)
 * [DOM Enlightenment](http://domenlightenment.com/)
 * [The Design of Code: Organising JavaScript](http://alistapart.com/article/the-design-of-code-organizing-javascript) 2013
