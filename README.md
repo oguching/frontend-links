@@ -13,7 +13,12 @@ Learning something new can be scary, be prepared to suck at first but be also de
 
 
 ### JS Concepts
+* ES6
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+* [ES5 to ES6 and Beyond](https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016) (Slide deck) 
+* [For and against `let`](https://davidwalsh.name/for-and-against-let)
+* [ES6 Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) 2013
+
 * [JavaScript Modules](https://medium.com/@preethikasireddy/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.q2jk2t796)
 * [DOM Enlightenment](http://domenlightenment.com/)
 * [The Design of Code: Organising JavaScript](http://alistapart.com/article/the-design-of-code-organizing-javascript) 2013
@@ -21,13 +26,11 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [JavaScript MVC](http://alistapart.com/article/javascript-mvc) 2009
 * [Backbone Models | What is a Model?](https://cdnjs.com/libraries/backbone.js/tutorials/what-is-a-model/)
 * [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) 
-* [ES5 to ES6 and Beyond](https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016) (Slide deck) 
 * [Mixins, Forwarding and Delegation in JavaScript](http://raganwald.com/2014/04/10/mixins-forwarding-delegation.html) 2014
 * [Mixins](http://raganwald.com/2015/06/10/mixins.html) 2015
 * [Fresh look at Mixins](https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/) 2011
 * [Class Hierarchies | Don't do that](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html) 2014
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
-* [ES6 Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) 2013
 * [How do Closures Work?](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
 * [Know thy reference | Understanding `this`](http://perfectionkills.com/know-thy-reference/) 2014
 * [Mastering Asynchronous Progamming | The end of the loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop) (Egghead video)
