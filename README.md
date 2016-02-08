@@ -28,6 +28,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 
 ### React
 * [Learn just react](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)
+* [Get productive in React in one week](https://css-tricks.com/productive-in-react/)
 
 ## Podcasts
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
