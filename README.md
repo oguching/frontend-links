@@ -27,6 +27,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [JavaScript Objects](https://davidwalsh.name/javascript-objects) (3 Part series) 2013 
 
 ### React
+* [Learn React in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.eb15028ct)
 * [Learn just react](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)
 * [Get productive in React in one week](https://css-tricks.com/productive-in-react/)
 
