@@ -38,7 +38,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [JavaScript Objects](https://davidwalsh.name/javascript-objects) (3 Part series) 2013 
 * [Factory Functions](https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91#.2mm3prg3i)
 
-## CSS
+## HTML/CSS
 * [How float works](http://bitsofco.de/how-floating-works/)
 * [CSS Layouts](http://book.mixu.net/css/single-page.html)
 
