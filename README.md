@@ -26,7 +26,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Understanding Prototypes in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/) 2011
 * [JavaScript Objects](https://davidwalsh.name/javascript-objects) (3 Part series) 2013 
 
-## CSS
+## HTML/CSS
 * [How float works](http://bitsofco.de/how-floating-works/)
 * [CSS Layouts](http://book.mixu.net/css/single-page.html)
 
