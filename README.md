@@ -51,4 +51,5 @@ Learning something new can be scary, be prepared to suck at first but be also de
 
 ## Resources
 * [/r/JavaScript](https://www.reddit.com/r/javascript)
+* [Superhero.JS](http://superherojs.com/)
 
