@@ -1,9 +1,6 @@
 # frontend-links
 Learning something new can be scary, be prepared to suck at first but be also determined to push through. The JavaScript landscape is always changing and it can be difficult knowing which path to take. I hope these links will serve as a guide to help you through your learning process. It is by no means comprehensive, that is by design but these are the links that have helped me on my journey and I hope it can help you too.
 
-## Open Source
-* [How to fix a bug in an Open Source Project](http://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/)
-
 ## JavaScript
 
 ### Start Here
@@ -47,4 +44,6 @@ Learning something new can be scary, be prepared to suck at first but be also de
 ## Resources
 * [/r/JavaScript](https://www.reddit.com/r/javascript)
 * [Superhero.JS](http://superherojs.com/)
+* [How to fix a bug in an Open Source Project](http://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/)
+* [The 4 Rituals that will make you and expert at anything](http://www.bakadesuyo.com/2016/03/expert/)
 
