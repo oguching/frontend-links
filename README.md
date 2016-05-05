@@ -39,6 +39,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [How float works](http://bitsofco.de/how-floating-works/)
 * [CSS Layouts](http://book.mixu.net/css/single-page.html)
 * [WTFHTML/CSS](http://wtfhtmlcss.com/) by [@mdo](http://github.com/mdo)
+* [Frontend standards](http://yellowshoe.com.au/standards/)
 
 ## Podcasts
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
