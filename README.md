@@ -53,3 +53,4 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [How to fix a bug in an Open Source Project](http://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/)
 * [The 4 Rituals that will make you and expert at anything](http://www.bakadesuyo.com/2016/03/expert/)
 * [How to lose weight (in the browser)](https://browserdiet.com/)
+* [Web Field Manual](http://webfieldmanual.com/)
