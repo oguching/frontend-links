@@ -55,3 +55,4 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [How to lose weight (in the browser)](https://browserdiet.com/)
 * [Web Field Manual](http://webfieldmanual.com/)
 * [How to Learn Web Frameworks](https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68#.rhm8nf3ds)
+* [JS Jargon](http://jargon.js.org/)
