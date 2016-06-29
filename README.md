@@ -53,6 +53,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [The Changelog](http://5by5.tv/changelog)
 * [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) (Youtube) 
 * [Toolsday](http://toolsday.io/)
+* [JavaScript Air](https://javascriptair.com/)
 
 ## Resources
 * [/r/JavaScript](https://www.reddit.com/r/javascript)
