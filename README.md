@@ -34,6 +34,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Inheritance and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 * [JavaScript Objects](https://davidwalsh.name/javascript-objects) (3 Part series) 2013 
 * [Factory Functions](https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91#.2mm3prg3i)
+* [Why Object Literals are Cool](https://rainsoft.io/why-object-literals-in-javascript-are-cool/)
 
 
 ### React
