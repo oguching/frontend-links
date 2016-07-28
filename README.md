@@ -36,6 +36,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [JavaScript Objects](https://davidwalsh.name/javascript-objects) (3 Part series) 2013 
 * [Factory Functions](https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91#.2mm3prg3i)
 * [Why Object Literals are Cool](https://rainsoft.io/why-object-literals-in-javascript-are-cool/)
+* [Introduction to JavaScript TDD](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/) 
 
 
 ### React
