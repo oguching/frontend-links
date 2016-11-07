@@ -37,6 +37,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Factory Functions](https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91#.2mm3prg3i)
 * [Why Object Literals are Cool](https://rainsoft.io/why-object-literals-in-javascript-are-cool/)
 * [Introduction to JavaScript TDD](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/) 
+* [Template Literals](https://www.youtube.com/watch?v=c9j0avG5L4c) Video
 
 
 ### React
