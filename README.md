@@ -9,7 +9,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [How to learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620#.x0hlquwtk)
 
 
-### JS Concepts
+### JS
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [ES5 to ES6 and Beyond](https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016) (Slide deck) 
 * [For and against `let`](https://davidwalsh.name/for-and-against-let)
@@ -38,6 +38,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Why Object Literals are Cool](https://rainsoft.io/why-object-literals-in-javascript-are-cool/)
 * [Introduction to JavaScript TDD](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/) 
 * [Template Literals](https://www.youtube.com/watch?v=c9j0avG5L4c) Video
+* [Leveling up your JavaScript](http://developer.telerik.com/featured/leveling-up-your-javascript/)
 
 
 ### React
