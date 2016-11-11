@@ -70,4 +70,8 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Web Field Manual](http://webfieldmanual.com/)
 * [How to Learn Web Frameworks](https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68#.rhm8nf3ds)
 * [JS Jargon](http://jargon.js.org/)
-* [Beginners Guide to SQL](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)
+* [Beginners Guide to SQL](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)  
+
+## Who to Follow
+Angular 
+* [Todd Motto](https://toddmotto.com/)
