@@ -72,6 +72,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [JS Jargon](http://jargon.js.org/)
 * [Beginners Guide to SQL](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)  
 * [No Frameworks](https://mmikowski.github.io/no-frameworks/) Before you reach out for a framework, read this.
+* [Build Your Own Framework](https://medium.com/este-js-framework/what-i-would-recommend-instead-of-angular-js-62b057d8a9e#.9n2fpmvpv)
 
 ## Who to Follow
 Angular 
