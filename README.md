@@ -71,6 +71,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [How to Learn Web Frameworks](https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68#.rhm8nf3ds)
 * [JS Jargon](http://jargon.js.org/)
 * [Beginners Guide to SQL](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)  
+* [No Frameworks](https://mmikowski.github.io/no-frameworks/) Before you reach out for a framework, read this.
 
 ## Who to Follow
 Angular 
