@@ -47,7 +47,8 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Get productive in React in one week](https://css-tricks.com/productive-in-react/)
 * [React for people who know just enough jQuery to get by](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 
-## HTML/CSS
+## HTML/CSS  
+* [cssreference.io](http://cssreference.io/)
 * [How float works](http://bitsofco.de/how-floating-works/)
 * [CSS Layouts](http://book.mixu.net/css/single-page.html)
 * [WTFHTML/CSS](http://wtfhtmlcss.com/) by [@mdo](http://github.com/mdo)
