@@ -87,3 +87,6 @@ frameworks
 ## Who to Follow
 Angular 
 * [Todd Motto](https://toddmotto.com/)
+
+## Blogs to follow
+* [Practical Dev](https://dev.to/)  
