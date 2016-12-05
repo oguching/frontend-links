@@ -64,17 +64,25 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [JavaScript Air](https://javascriptair.com/)
 
 ## Resources
+js  
 * [/r/JavaScript](https://www.reddit.com/r/javascript)
 * [Superhero.JS](http://superherojs.com/)
-* [How to fix a bug in an Open Source Project](http://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/)
-* [The 4 Rituals that will make you and expert at anything](http://www.bakadesuyo.com/2016/03/expert/)
-* [How to lose weight (in the browser)](https://browserdiet.com/)
-* [Web Field Manual](http://webfieldmanual.com/)
-* [How to Learn Web Frameworks](https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68#.rhm8nf3ds)
-* [JS Jargon](http://jargon.js.org/)
+* [JS Jargon](http://jargon.js.org/)   
+
+color  
+* [colorhunt](http://colorhunt.co/)  
+
+frameworks  
+* [How to Learn Web Frameworks](https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68#.rhm8nf3ds)    
+* [No Frameworks](https://mmikowski.github.io/no-frameworks/) Before you reach out for a framework, read this.   
+* [Build Your Own Framework](https://medium.com/este-js-framework/what-i-would-recommend-instead-of-angular-js-62b057d8a9e#.9n2fpmvpv)   
+
+* [How to fix a bug in an Open Source Project](http://nolanlawson.com/2015/12/28/how-to-fix-a-bug-in-an-open-source-project/)  
+* [The 4 Rituals that will make you and expert at anything](http://www.bakadesuyo.com/2016/03/expert/)  
+* [How to lose weight (in the browser)](https://browserdiet.com/)  
+* [Web Field Manual](http://webfieldmanual.com/)  
 * [Beginners Guide to SQL](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)  
-* [No Frameworks](https://mmikowski.github.io/no-frameworks/) Before you reach out for a framework, read this.
-* [Build Your Own Framework](https://medium.com/este-js-framework/what-i-would-recommend-instead-of-angular-js-62b057d8a9e#.9n2fpmvpv)
+
 
 ## Who to Follow
 Angular 
