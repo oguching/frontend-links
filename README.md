@@ -53,7 +53,8 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [CSS Layouts](http://book.mixu.net/css/single-page.html)
 * [WTFHTML/CSS](http://wtfhtmlcss.com/) by [@mdo](http://github.com/mdo)
 * [Frontend standards](http://yellowshoe.com.au/standards/)  
-* [Zero to Frontend Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.q8a82q284)
+* [Zero to Frontend Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.q8a82q284)  
+* [css animation](https://robots.thoughtbot.com/css-animation-for-beginners) thoughtbot
 
 
 ## Podcasts
