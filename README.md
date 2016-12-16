@@ -70,6 +70,7 @@ js
 * [/r/JavaScript](https://www.reddit.com/r/javascript)
 * [Superhero.JS](http://superherojs.com/)
 * [JS Jargon](http://jargon.js.org/)   
+* [Nodeschool](https://nodeschool.io/)   
 
 color  
 * [colorhunt](http://colorhunt.co/)  
