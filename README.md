@@ -14,8 +14,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [ES5 to ES6 and Beyond](https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016) (Slide deck) 
 * [For and against `let`](https://davidwalsh.name/for-and-against-let)
 * [ES6 Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) 2013
-* [A JavaScript Promises Tutorial](https://www.toptal.com/javascript/javascript-promises)
-* [JavaScript Modules](https://medium.com/@preethikasireddy/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.q2jk2t796)
+* [A JavaScript Promises Tutorial](https://www.toptal.com/javascript/javascript-promises)  
 * [DOM Enlightenment](http://domenlightenment.com/)
 * [The Design of Code: Organising JavaScript](http://alistapart.com/article/the-design-of-code-organizing-javascript) 2013
 * [Human JavaScript](http://read.humanjavascript.com/)
@@ -38,8 +37,11 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Why Object Literals are Cool](https://rainsoft.io/why-object-literals-in-javascript-are-cool/)
 * [Introduction to JavaScript TDD](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/) 
 * [Template Literals](https://www.youtube.com/watch?v=c9j0avG5L4c) Video
-* [Leveling up your JavaScript](http://developer.telerik.com/featured/leveling-up-your-javascript/)
+* [Leveling up your JavaScript](http://developer.telerik.com/featured/leveling-up-your-javascript/)  
 
+#### JS Modules  
+* [JavaScript Modules](https://medium.com/@preethikasireddy/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.q2jk2t796)  
+* [JavaScript Module Pattern - In Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)  
 
 ### React
 * [Learn React in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.eb15028ct)
