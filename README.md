@@ -43,6 +43,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 #### JS Modules  
 * [JavaScript Modules](https://medium.com/@preethikasireddy/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.q2jk2t796)  
 * [JavaScript Module Pattern - In Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)  
+* [ES6 Modules](https://24ways.org/2014/javascript-modules-the-es6-way/)  
 
 ### React
 * [Learn React in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003#.eb15028ct)
