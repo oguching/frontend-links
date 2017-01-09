@@ -50,6 +50,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Learn just react](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)
 * [Get productive in React in one week](https://css-tricks.com/productive-in-react/)
 * [React for people who know just enough jQuery to get by](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+* [Master these five concepts, then master React](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.ad4vren79)
 
 ## HTML/CSS  
 * [cssreference.io](http://cssreference.io/)
