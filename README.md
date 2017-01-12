@@ -51,6 +51,8 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Get productive in React in one week](https://css-tricks.com/productive-in-react/)
 * [React for people who know just enough jQuery to get by](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 * [Master these five concepts, then master React](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.ad4vren79)
+* [React Aha Moments](https://tylermcginnis.com/react-aha-moments/)  
+* [React Elements v React Components](https://tylermcginnis.com/react-elements-vs-react-components/)
 
 ## HTML/CSS  
 * [cssreference.io](http://cssreference.io/)
