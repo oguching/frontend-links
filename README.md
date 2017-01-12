@@ -90,6 +90,9 @@ frameworks
 * [Web Field Manual](http://webfieldmanual.com/)  
 * [Beginners Guide to SQL](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)  
 
+Git
+* [Git koans](http://stevelosh.com/blog/2013/04/git-koans/)  
+
 
 ## Who to Follow
 Angular 
