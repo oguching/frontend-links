@@ -71,6 +71,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Toolsday](http://toolsday.io/)
 * [JavaScript Air](https://javascriptair.com/)
 * [Hanselminutes](http://hanselminutes.com/)
+* [Software Engineering Radio](http://www.se-radio.net/)
 
 ## Resources
 js  
