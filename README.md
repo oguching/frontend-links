@@ -80,6 +80,7 @@ js
 * [Superhero.JS](http://superherojs.com/)
 * [JS Jargon](http://jargon.js.org/)   
 * [Nodeschool](https://nodeschool.io/)   
+* [UGHCO.DE](https://ughco.de/index.html) book    
 
 color  
 * [colorhunt](http://colorhunt.co/)  
