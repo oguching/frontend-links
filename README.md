@@ -84,6 +84,7 @@ js
 
 color  
 * [colorhunt](http://colorhunt.co/)  
+* [color theory](https://tallys.github.io/color-theory/)
 
 frameworks  
 * [How to Learn Web Frameworks](https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68#.rhm8nf3ds)    
