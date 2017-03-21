@@ -16,6 +16,7 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [For and against `let`](https://davidwalsh.name/for-and-against-let)
 * [ES6 Promises](http://www.html5rocks.com/en/tutorials/es6/promises/) 2013
 * [A JavaScript Promises Tutorial](https://www.toptal.com/javascript/javascript-promises)  
+* [ES6 features you can use today](https://scotch.io/bar-talk/five-things-you-can-use-in-es6-today)
 * [DOM Enlightenment](http://domenlightenment.com/)
 * [The Design of Code: Organising JavaScript](http://alistapart.com/article/the-design-of-code-organizing-javascript) 2013
 * [Human JavaScript](http://read.humanjavascript.com/)
