@@ -74,6 +74,8 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [JavaScript Air](https://javascriptair.com/)
 * [Hanselminutes](http://hanselminutes.com/)
 * [Software Engineering Radio](http://www.se-radio.net/)
+* [BaseCS](https://www.codenewbie.org/basecs) Podcast on CS fundamentals
+* [SyntaxFM](https://syntax.fm/) Hosted by Wes Bos & Scott Tolinski
 
 ## Resources
 js  
