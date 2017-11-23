@@ -84,6 +84,9 @@ js
 * [JS Jargon](http://jargon.js.org/)   
 * [Nodeschool](https://nodeschool.io/)   
 * [UGHCO.DE](https://ughco.de/index.html) book    
+* [The Modern JavaScript Tutorial](https://javascript.info/)
+* [JavaScript: The Core 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
+* [The JS Way](https://github.com/bpesquet/thejsway/)
 
 color  
 * [colorhunt](http://colorhunt.co/)  
