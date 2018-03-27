@@ -56,14 +56,22 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [React Aha Moments](https://tylermcginnis.com/react-aha-moments/)  
 * [React Elements v React Components](https://tylermcginnis.com/react-elements-vs-react-components/)
 
-## HTML/CSS  
-* [cssreference.io](http://cssreference.io/)
+## HTML  
 * [How float works](http://bitsofco.de/how-floating-works/)
-* [CSS Layouts](http://book.mixu.net/css/single-page.html)
 * [WTFHTML/CSS](http://wtfhtmlcss.com/) by [@mdo](http://github.com/mdo)
 * [Frontend standards](http://yellowshoe.com.au/standards/)  
 * [Zero to Frontend Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.q8a82q284)  
-* [css animation](https://robots.thoughtbot.com/css-animation-for-beginners) thoughtbot
+
+
+## CSS  
+* [cssreference.io](http://cssreference.io/)  
+* [CSS Layouts](http://book.mixu.net/css/single-page.html)  
+* [CSS Animation](https://robots.thoughtbot.com/css-animation-for-beginners) thoughtbot
+
+Sass
+* [Getting started with Sass](https://www.hongkiat.com/blog/getting-started-saas/)  
+* [Easy Sass Guide](https://www.hongkiat.com/blog/easy-sass-guide/)  
+* [Sass Best Practices](https://www.hongkiat.com/blog/sass-tips-tools-for-developers/)
 
 
 ## Podcasts
