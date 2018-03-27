@@ -71,7 +71,8 @@ Learning something new can be scary, be prepared to suck at first but be also de
 Sass
 * [Getting started with Sass](https://www.hongkiat.com/blog/getting-started-saas/)  
 * [Easy Sass Guide](https://www.hongkiat.com/blog/easy-sass-guide/)  
-* [Sass Best Practices](https://www.hongkiat.com/blog/sass-tips-tools-for-developers/)
+* [Sass Best Practices](https://www.hongkiat.com/blog/sass-tips-tools-for-developers/) 
+* [Standard Module Definition for Sass](http://thesassway.com/intermediate/a-standard-module-definition-for-sass)
 
 
 ## Podcasts
