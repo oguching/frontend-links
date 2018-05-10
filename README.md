@@ -100,7 +100,8 @@ js
 color  
 * [colorhunt](http://colorhunt.co/)  
 * [color theory](https://tallys.github.io/color-theory/)  
-* [ANiceRed](http://anice.red/)
+* [ANiceRed](http://anice.red/)  
+* [Adobe Color CC](https://color.adobe.com/)
 
 frameworks  
 * [How to Learn Web Frameworks](https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68#.rhm8nf3ds)    
