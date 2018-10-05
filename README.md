@@ -9,7 +9,13 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [How to learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620#.x0hlquwtk)
 
 
-### JS
+### JS  
+#### Prototypes  
+*[https://tylermcginnis.com/beginners-guide-to-javascript-prototype/](A Beginner's Guide to JavaScript's Prototype)  
+* [Understanding Prototypes in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/) 2011
+* [Inheritance and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+
+
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)  
 * [ES6 Summary](https://github.com/zsolt-nagy/es6-summary)  
 * [ES5 to ES6 and Beyond](https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016) (Slide deck) 
@@ -32,8 +38,6 @@ Learning something new can be scary, be prepared to suck at first but be also de
 * [Know thy reference | Understanding `this`](http://perfectionkills.com/know-thy-reference/) 2014
 * [Mastering Asynchronous Progamming | The end of the loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop) (Egghead video)
 * [Functional programming in JavaScript](http://reactivex.io/learnrx/) exercises on .map, .filter, .forEach,...
-* [Understanding Prototypes in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/) 2011
-* [Inheritance and the Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 * [JavaScript Objects](https://davidwalsh.name/javascript-objects) (3 Part series) 2013 
 * [Using Objects to Organize Your Code](http://rmurphey.com/blog/2009/10/15/using-objects-to-organize-your-code)  
 * [Factory Functions](https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91#.2mm3prg3i)
