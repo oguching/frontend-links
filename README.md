@@ -101,7 +101,9 @@ js
 * [JavaScript: The Core 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
 * [The JS Way](https://github.com/bpesquet/thejsway/)
 
-color  
+Contrast and Color  
+* [Contrast Ratio](https://contrast-ratio.com/)  
+* [Colorable](https://colorable.jxnblk.com)
 * [colorhunt](http://colorhunt.co/)  
 * [color theory](https://tallys.github.io/color-theory/)  
 * [ANiceRed](http://anice.red/)  
